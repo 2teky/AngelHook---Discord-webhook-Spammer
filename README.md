@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```sh
-python Bloody Spammer V2.py
+python Angel Stresser.py
 ```
 
 ## Author
